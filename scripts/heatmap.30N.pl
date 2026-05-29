@@ -75,19 +75,19 @@ $svg->line('x1',220,'y1',850,'x2',870,'y2',200,'stroke','black','stroke-width',3
 $svg->line('x1',870,'y1',200,'x2',1520,'y2',850,'stroke','black','stroke-width',3);
 
 $svg->text('x',200,'y',840,'fill','black','stroke','red','-cdata',"4",'font-size',25,'transform',"rotate(315, 200, 840)");
-$svg->text('x',440,'y',600,'fill','black','stroke','red','-cdata',"30",'font-size',25,'transform',"rotate(315, 440, 600)");
+$svg->text('x',440,'y',600,'fill','black','stroke','red','-cdata',"28",'font-size',25,'transform',"rotate(315, 440, 600)");
 $svg->text('x',490,'y',590,'fill','black','stroke','red','-cdata',"1",'font-size',25,'transform',"rotate(45, 490, 590)");
-$svg->text('x',730,'y',830,'fill','black','stroke','red','-cdata',"27",'font-size',25,'transform',"rotate(45, 730, 830)");
+$svg->text('x',730,'y',830,'fill','black','stroke','red','-cdata',"25",'font-size',25,'transform',"rotate(45, 730, 830)");
 
 $svg->text('x',1000,'y',840,'fill','black','stroke','blue','-cdata',"4",'font-size',25,'transform',"rotate(315, 1000, 840)");
-$svg->text('x',1220,'y',620,'fill','black','stroke','blue','-cdata',"30",'font-size',25,'transform',"rotate(315, 1220, 620)");
+$svg->text('x',1220,'y',620,'fill','black','stroke','blue','-cdata',"28",'font-size',25,'transform',"rotate(315, 1220, 620)");
 $svg->text('x',1290,'y',590,'fill','black','stroke','blue','-cdata',"1",'font-size',25,'transform',"rotate(45, 1290, 590)");
-$svg->text('x',1530,'y',830,'fill','black','stroke','blue','-cdata',"27",'font-size',25,'transform',"rotate(45, 1530, 830)");
+$svg->text('x',1530,'y',830,'fill','black','stroke','blue','-cdata',"25",'font-size',25,'transform',"rotate(45, 1530, 830)");
 
 $svg->text('x',570,'y',470,'fill','black','stroke','blue','-cdata',"1",'font-size',25,'transform',"rotate(315, 570, 470)");
-$svg->text('x',820,'y',220,'fill','black','stroke','blue','-cdata',"30",'font-size',25,'transform',"rotate(315, 820, 220)");
+$svg->text('x',820,'y',220,'fill','black','stroke','blue','-cdata',"28",'font-size',25,'transform',"rotate(315, 820, 220)");
 $svg->text('x',890,'y',190,'fill','black','stroke','red','-cdata',"1",'font-size',25,'transform',"rotate(45, 890, 190)");
-$svg->text('x',1150,'y',450,'fill','black','stroke','red','-cdata',"30",'font-size',25,'transform',"rotate(45, 1150, 450)");
+$svg->text('x',1150,'y',450,'fill','black','stroke','red','-cdata',"28",'font-size',25,'transform',"rotate(45, 1150, 450)");
 
 $svg->rect('x',440,'y',950,'width',870,'height',50,'opacity',1,'fill','lightgrey');
 $svg->text('x',780,'y',985,'fill','black','stroke','black','-cdata',"87bp 601",'font-size',40);
